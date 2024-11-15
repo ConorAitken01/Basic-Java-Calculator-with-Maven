@@ -38,6 +38,6 @@ public class Calculator {
                 return;
         }
 
-        System.out.println("The result is: " + result);
+        System.out.println("" + num1 + " " + operator + " " + num2 + " = " + result);
     }
 }
